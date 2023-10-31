@@ -1,0 +1,24 @@
+F:\Code\C#\kur_phuong\kur_phuong\bin\Debug\kur_phuong.exe.config
+F:\Code\C#\kur_phuong\kur_phuong\bin\Debug\kur_phuong.exe
+F:\Code\C#\kur_phuong\kur_phuong\bin\Debug\kur_phuong.pdb
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csprojAssemblyReference.cache
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Form1.resources
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Form2.resources
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Properties.Resources.resources
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csproj.GenerateResource.cache
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csproj.CoreCompileInputs.cache
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.exe
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.pdb
+F:\Code\C#\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Script.resources
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\bin\Debug\kur_phuong.exe.config
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\bin\Debug\kur_phuong.exe
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\bin\Debug\kur_phuong.pdb
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csprojAssemblyReference.cache
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Form1.resources
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Form2.resources
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Properties.Resources.resources
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.Script.resources
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csproj.GenerateResource.cache
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.exe
+C:\Users\Ngoc Phuong\Downloads\kur_phuong\kur_phuong\kur_phuong\obj\Debug\kur_phuong.pdb
